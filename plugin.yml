@@ -3,4 +3,5 @@ api: 5.0.0
 version: 0.0.1
 author: PlaneBURATINO
 description: Many pocketmine commands in one plugin & customisable!
+main: PlaneBURATINO\PlaneEssentials\PlaneEssentials
 hotel: trivago
